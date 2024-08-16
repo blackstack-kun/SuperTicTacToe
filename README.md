@@ -20,8 +20,8 @@ Super Tic-Tac-Toe is a Java application that implements a modified version of th
 - Once you win a board, That board will be freezed.
 
 ## Screenshots
-![Screenshot 1](https://cdn.discordapp.com/attachments/878926518095581185/1231662691727179889/image.png?ex=6637c644&is=66255144&hm=d07b8d7a624f59b6fe245e2188bb187964a16e327e0128ec8a1305480028e922&)
-![Screenshot 2](https://cdn.discordapp.com/attachments/878926518095581185/1231662663826669669/image.png?ex=6637c63e&is=6625513e&hm=079817da0f78fb0249b6eb928802dea28629b9d33470a905090479337fba0df4&)
+![Screenshot 1](RepoImages/ss1.png)
+![Screenshot 2](RepoImages/ss2.png)
 
 ## Contributing
 Contributions are welcome! If you find any bugs or have suggestions for improvements, please open an issue or create a pull request.
